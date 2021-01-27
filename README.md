@@ -3,8 +3,8 @@ Sandbox for R language.
 
 ## Refs
 
-- [RとStanではじめるベイズ統計モデリングによるデータ分析入門](https://logics-of-blue.com/r-stan-bayesian-model-intro-book-support/)
-- [StanとRでベイズ統計モデリング](https://www.kyoritsu-pub.co.jp/bookdetail/9784320112421)
+- [RとStanではじめるベイズ統計モデリングによるデータ分析入門](https://logics-of-blue.com/r-stan-bayesian-model-intro-book-support/)（[GitHub](https://github.com/MatsuuraKentaro/RStanBook)）
+- [StanとRでベイズ統計モデリング](https://www.kyoritsu-pub.co.jp/bookdetail/9784320112421)（[GitHub](https://github.com/logics-of-blue/book-r-stan-bayesian-model-intro)）
 
 ## Topics
 
